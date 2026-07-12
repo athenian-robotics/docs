@@ -1,0 +1,7 @@
+site_name: "MkDocs Material Devcontainer"
+repo_url: https://github.com/athenian-robotics/docs/
+repo_name: athenian-robotics/docs
+site_author: Arc Robotics
+site_url: https://athenian-robotics.github.io/docs/
+theme:
+  name: material
