@@ -9,11 +9,11 @@ theme:
 nav:
   - index.md
   - 1. Control theory:
-      control-theory-1.md
-      control-theory-2.md
+    - control-theory-1.md
+    - control-theory-2.md
   - 2. Software architecture:
-      software-arch-1.md
-      software-arch-2.md
+    - software-arch-1.md
+    - software-arch-2.md
   - 3. Code stuff:
-      code-stuff-1.md
-      code-stuff-2.md
+    - code-stuff-1.md
+    - code-stuff-2.md
