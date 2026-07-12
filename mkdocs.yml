@@ -1,7 +1,19 @@
-site_name: "MkDocs Material Devcontainer"
+site_name: "Arc Robotics Programming Reference"
 repo_url: https://github.com/athenian-robotics/docs/
 repo_name: athenian-robotics/docs
 site_author: Arc Robotics
 site_url: https://athenian-robotics.github.io/docs/
 theme:
   name: material
+
+nav:
+  - index.md
+  - 1. Control theory:
+      control-theory-1.md
+      control-theory-2.md
+  - 2. Software architecture:
+      software-arch-1.md
+      software-arch-2.md
+  - 3. Code stuff:
+      code-stuff-1.md
+      code-stuff-2.md
